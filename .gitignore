@@ -2,3 +2,6 @@
 data/*
 toy_data/*
 zip_codes/*
+cs186_spark/*
+.ipynb_checkpoints/*
+cs186_spark.tar.bz2
